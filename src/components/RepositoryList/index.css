@@ -1,0 +1,19 @@
+.repositories {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 100%;
+}
+
+.repositories__title {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 130%;
+    color: #000000;
+    margin-bottom: 29px;
+}
+
+.repositories__content {
+    width: 100%;
+}

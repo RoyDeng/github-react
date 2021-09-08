@@ -1,0 +1,45 @@
+.user {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 26px;
+}
+
+.user-card {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    min-width: 295px;
+    margin-right: 96px;
+}
+
+.user-card__image {
+    border-radius: 50%;
+    margin-bottom: 29px;
+    max-width: 280px;
+}
+
+.user-card__user-name {
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 130%;
+    color: #000000;
+    margin-bottom: 12px;
+}
+
+.user-card__nickname {
+    font-size: 18px;
+    line-height: 22px;
+    color: #0064EB;
+    margin-bottom: 32px;
+}
+
+.user-card__nickname:hover {
+    color: #0c4b9e;
+    cursor: pointer;
+}
+
+.user-card__user-information {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 16px 41px;
+    background: #333;
+}
+
+.logo {
+    margin-right: 22px;
+}
+
+.logo_circle {
+    border-radius: 50%;
+}

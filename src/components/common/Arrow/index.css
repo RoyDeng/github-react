@@ -1,0 +1,22 @@
+.pagination__arrow {
+    margin-right: 20px;
+    outline: none;
+    background: none;
+}
+
+.pagination__arrow:last-child {
+    margin-right: 0;
+}
+
+.arrow {
+    width: 7px;
+    height: 12px;
+    outline: none;
+    background: none;
+    cursor: pointer;
+    color: #808080;
+}
+
+.arrow:hover {
+    color: #0064EB;
+}

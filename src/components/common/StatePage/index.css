@@ -1,0 +1,32 @@
+.state-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 90vh;
+  
+  }
+  
+  .state-page__img {
+    width: 65px;
+    height: 75px;
+    margin-bottom: 42px;
+  }
+  
+  .state-page__text {
+    font-size: 22px;
+    line-height: 140%;
+    text-align: center;
+    color: #808080;
+    max-width: 210px;
+  }
+  .state-page-empty{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 75vh;
+  
+  }

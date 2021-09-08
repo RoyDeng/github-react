@@ -1,0 +1,26 @@
+.search-form {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  min-width: 500px;
+  min-height: 40px;
+  padding: 8px 14px;
+  background: #FFFFFF;
+  border-radius: 6px;
+}
+
+.search-form__input {
+  padding: 3px 0;
+  width: 100%;
+}
+
+.search-form__button {
+  margin-right: 11px;
+  outline: none;
+  background: none;
+}
+
+.search-form__img {
+  width: 14px;
+  height: 14px;
+}
